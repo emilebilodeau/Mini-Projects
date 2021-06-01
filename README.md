@@ -14,7 +14,7 @@ Tools used:
 * SQL
 * Pandas
 
-## Project III - Unsupervised Learning
+## Project III - Unsupervised Learning: Banking behavior
 This project's purpose was to make use of unsupervised learning to get insights on customers banking behavior. It was a collaborative project, and for my part, I took a look at customer demographic data and tried to find hidden patterns. My partner looked at banking behavior, and together we aimed to associate certain demographics to spending behaviors using clusters.
 
 Tools used:
@@ -22,3 +22,17 @@ Tools used:
 * Scitkit-learn (KMeans, PCA)
 * Matplotlib
 * Pandas
+
+## Project IV - Supervised Learning: Loan predictions
+This project main goal was to create a machine learning model to assist in determining if a certain applicant qualified or not for a loan. It includes an exploratory data analysis to get a basic understanding of the dataset, data cleaning (missing value imputation, outerlier dectection & transformation, feature engineering), and a pipeline. There is also a small API included as part of the files, which can be deployed locally or remotely, and a saved model, in order to make use of the model anytime. 
+
+Tools used:
+* Python
+* Scikit-learn (PCA, KBest, RandomForestClassifier, Pipelines, GridSearch)
+* Pandas
+* Matplotlib
+* Flask
+* Pickle
+
+## Project V - Deep Learning: Machine translator
+Coming soon. 
