@@ -35,4 +35,4 @@ Tools used:
 * Pickle
 
 ## Project V - Deep Learning: Machine translator
-Coming soon. 
+This project is a work in progress. Most of the data preprocessing has been completed, I am however running into issues making the neural network work.
